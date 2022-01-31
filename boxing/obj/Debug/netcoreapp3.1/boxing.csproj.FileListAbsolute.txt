@@ -1,0 +1,14 @@
+C:\Users\Akshitha\source\trainning\boxing\bin\Debug\netcoreapp3.1\boxing.exe
+C:\Users\Akshitha\source\trainning\boxing\bin\Debug\netcoreapp3.1\boxing.deps.json
+C:\Users\Akshitha\source\trainning\boxing\bin\Debug\netcoreapp3.1\boxing.runtimeconfig.json
+C:\Users\Akshitha\source\trainning\boxing\bin\Debug\netcoreapp3.1\boxing.runtimeconfig.dev.json
+C:\Users\Akshitha\source\trainning\boxing\bin\Debug\netcoreapp3.1\boxing.dll
+C:\Users\Akshitha\source\trainning\boxing\bin\Debug\netcoreapp3.1\boxing.pdb
+C:\Users\Akshitha\source\trainning\boxing\obj\Debug\netcoreapp3.1\boxing.csproj.AssemblyReference.cache
+C:\Users\Akshitha\source\trainning\boxing\obj\Debug\netcoreapp3.1\boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\source\trainning\boxing\obj\Debug\netcoreapp3.1\boxing.AssemblyInfoInputs.cache
+C:\Users\Akshitha\source\trainning\boxing\obj\Debug\netcoreapp3.1\boxing.AssemblyInfo.cs
+C:\Users\Akshitha\source\trainning\boxing\obj\Debug\netcoreapp3.1\boxing.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\source\trainning\boxing\obj\Debug\netcoreapp3.1\boxing.dll
+C:\Users\Akshitha\source\trainning\boxing\obj\Debug\netcoreapp3.1\boxing.pdb
+C:\Users\Akshitha\source\trainning\boxing\obj\Debug\netcoreapp3.1\boxing.genruntimeconfig.cache

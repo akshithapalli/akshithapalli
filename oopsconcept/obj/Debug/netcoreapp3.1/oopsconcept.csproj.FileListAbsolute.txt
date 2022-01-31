@@ -1,0 +1,14 @@
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\bin\Debug\netcoreapp3.1\oopsconcept.exe
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\bin\Debug\netcoreapp3.1\oopsconcept.deps.json
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\bin\Debug\netcoreapp3.1\oopsconcept.runtimeconfig.json
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\bin\Debug\netcoreapp3.1\oopsconcept.runtimeconfig.dev.json
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\bin\Debug\netcoreapp3.1\oopsconcept.dll
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\bin\Debug\netcoreapp3.1\oopsconcept.pdb
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\obj\Debug\netcoreapp3.1\oopsconcept.csproj.AssemblyReference.cache
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\obj\Debug\netcoreapp3.1\oopsconcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\obj\Debug\netcoreapp3.1\oopsconcept.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\obj\Debug\netcoreapp3.1\oopsconcept.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\obj\Debug\netcoreapp3.1\oopsconcept.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\obj\Debug\netcoreapp3.1\oopsconcept.dll
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\obj\Debug\netcoreapp3.1\oopsconcept.pdb
+C:\Users\Akshitha\Desktop\tranning\oopsconcept\obj\Debug\netcoreapp3.1\oopsconcept.genruntimeconfig.cache
