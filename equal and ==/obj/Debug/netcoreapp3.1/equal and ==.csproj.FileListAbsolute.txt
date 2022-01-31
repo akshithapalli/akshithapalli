@@ -11,3 +11,4 @@ C:\Users\Akshitha\Desktop\tranning\equal and ==\bin\Debug\netcoreapp3.1\equal an
 C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.dll
 C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.pdb
 C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.genruntimeconfig.cache
+C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.csproj.AssemblyReference.cache
