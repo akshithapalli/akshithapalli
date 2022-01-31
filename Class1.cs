@@ -1,12 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace equal_and___
 {
-    class Program
+    class Class1
     {
-        static void Main1(string[] args)
+        static void Main2(string[] args)
         {
-
             string name = "akshitha";
             string Myname = name;
             var doubleeql = (name == Myname);
