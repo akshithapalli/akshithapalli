@@ -4,7 +4,7 @@ namespace equal_and___
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
 
             string name = "akshitha";

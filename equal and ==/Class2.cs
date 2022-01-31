@@ -6,7 +6,7 @@ namespace equal_and___
 {
     class Class2
     {
-        static void Main1(string[]args)
+        static void Main(string[]args)
         {
             sample(6);
             sample(6, 7);
