@@ -1,0 +1,13 @@
+C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\Desktop\tranning\equal and ==\bin\Debug\netcoreapp3.1\equal and ==.exe
+C:\Users\Akshitha\Desktop\tranning\equal and ==\bin\Debug\netcoreapp3.1\equal and ==.deps.json
+C:\Users\Akshitha\Desktop\tranning\equal and ==\bin\Debug\netcoreapp3.1\equal and ==.runtimeconfig.json
+C:\Users\Akshitha\Desktop\tranning\equal and ==\bin\Debug\netcoreapp3.1\equal and ==.runtimeconfig.dev.json
+C:\Users\Akshitha\Desktop\tranning\equal and ==\bin\Debug\netcoreapp3.1\equal and ==.dll
+C:\Users\Akshitha\Desktop\tranning\equal and ==\bin\Debug\netcoreapp3.1\equal and ==.pdb
+C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.dll
+C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.pdb
+C:\Users\Akshitha\Desktop\tranning\equal and ==\obj\Debug\netcoreapp3.1\equal and ==.genruntimeconfig.cache
