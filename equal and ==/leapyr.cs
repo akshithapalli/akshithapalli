@@ -4,7 +4,7 @@ using System.Text;
 
 namespace equal_and___
 {
-    class Class4
+    class leapyr
     {
         static void Main (string[] args)
         {
