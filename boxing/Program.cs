@@ -39,13 +39,7 @@ namespace boxing
             //***
             //****
 
-            /*for (int row = 1; row <= 4; ++row)
-            {
-                for (int col = 1; col <=row; ++col)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
+            /*
             }*/
             //PALINDROM
             /* int r, sum=0,temp;

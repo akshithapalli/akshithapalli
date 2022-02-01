@@ -4,7 +4,7 @@ namespace oops_concept
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int i, n, sum = 0;
 
