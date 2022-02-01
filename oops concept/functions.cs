@@ -6,7 +6,7 @@ namespace oops_concept
 {
     class functions
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             Console.Write("Enter a Number : ");
             int number = int.Parse(Console.ReadLine());
