@@ -6,7 +6,7 @@ namespace oops_concept
 {
     class duplicate
     {
-       static void Main (string[]args)
+       static void Main5 (string[]args)
         {
             int[] a = new int[10];
             int i, j, count = 0;
