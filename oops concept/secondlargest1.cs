@@ -6,7 +6,7 @@ namespace oops_concept
 {
     class secondlargest1
     {
-        static void Main (string [] args)
+        static void Main6 (string [] args)
         {
             int num, i, j = 0, lrg, lrg2nd;
 
