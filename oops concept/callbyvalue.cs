@@ -6,7 +6,7 @@ namespace oops_concept
 {
     class callbyvalue
     {
-        static void Main(string[]args)
+        static void Main4(string[]args)
         {
             int a = 6;
             int b = 5;
