@@ -6,7 +6,7 @@ namespace oops_concept
 {
     class loops
     {
-        static void Main(string[]args)
+        static void Main2(string[]args)
         {
             int i, j, rows, k = 1;
             Console.Write("Enter a rows: "); 
