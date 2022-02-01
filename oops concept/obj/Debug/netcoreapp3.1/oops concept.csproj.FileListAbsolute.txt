@@ -1,0 +1,14 @@
+C:\Users\Akshitha\Desktop\tranning\oops concept\bin\Debug\netcoreapp3.1\oops concept.exe
+C:\Users\Akshitha\Desktop\tranning\oops concept\bin\Debug\netcoreapp3.1\oops concept.deps.json
+C:\Users\Akshitha\Desktop\tranning\oops concept\bin\Debug\netcoreapp3.1\oops concept.runtimeconfig.json
+C:\Users\Akshitha\Desktop\tranning\oops concept\bin\Debug\netcoreapp3.1\oops concept.runtimeconfig.dev.json
+C:\Users\Akshitha\Desktop\tranning\oops concept\bin\Debug\netcoreapp3.1\oops concept.dll
+C:\Users\Akshitha\Desktop\tranning\oops concept\bin\Debug\netcoreapp3.1\oops concept.pdb
+C:\Users\Akshitha\Desktop\tranning\oops concept\obj\Debug\netcoreapp3.1\oops concept.csproj.AssemblyReference.cache
+C:\Users\Akshitha\Desktop\tranning\oops concept\obj\Debug\netcoreapp3.1\oops concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\oops concept\obj\Debug\netcoreapp3.1\oops concept.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\oops concept\obj\Debug\netcoreapp3.1\oops concept.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\oops concept\obj\Debug\netcoreapp3.1\oops concept.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\Desktop\tranning\oops concept\obj\Debug\netcoreapp3.1\oops concept.dll
+C:\Users\Akshitha\Desktop\tranning\oops concept\obj\Debug\netcoreapp3.1\oops concept.pdb
+C:\Users\Akshitha\Desktop\tranning\oops concept\obj\Debug\netcoreapp3.1\oops concept.genruntimeconfig.cache
