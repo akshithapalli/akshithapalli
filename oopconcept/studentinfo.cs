@@ -31,11 +31,24 @@ namespace oopconcept
     }
     class programm
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             studentinfo student = new studentinfo();
             student.GetStudentInformation();
             student.ShowStudentData();
+            studentinfo[] Student= new studentinfo[2];
+
+            for (int i = 0; i < Student.Length; i++)
+
+            {
+                studentinfo student1 = new studentinfo();
+                student1.GetStudentInformation();
+                Student[i] = student1;
+            }
+            for (int i = 0; i < Student.Length; i++)
+            {
+                Student[i].ShowStudentData();
+            }
         }
     }
 }
