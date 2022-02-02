@@ -4,12 +4,11 @@ namespace oopconcept
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string a; 
             int alphabets, digits, specialCharacter, i, l; 
             alphabets = digits = specialCharacter = i = 0; 
-            Console.WriteLine("Count the no. of digits,alpabets,special characters in a string"); 
             Console.WriteLine("Enter the input String");
             a = Console.ReadLine();
             l = a.Length; 
