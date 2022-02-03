@@ -1,0 +1,13 @@
+C:\Users\Akshitha\Desktop\tranning\inhertance\bin\Debug\netcoreapp3.1\inhertance.exe
+C:\Users\Akshitha\Desktop\tranning\inhertance\bin\Debug\netcoreapp3.1\inhertance.deps.json
+C:\Users\Akshitha\Desktop\tranning\inhertance\bin\Debug\netcoreapp3.1\inhertance.runtimeconfig.json
+C:\Users\Akshitha\Desktop\tranning\inhertance\bin\Debug\netcoreapp3.1\inhertance.runtimeconfig.dev.json
+C:\Users\Akshitha\Desktop\tranning\inhertance\bin\Debug\netcoreapp3.1\inhertance.dll
+C:\Users\Akshitha\Desktop\tranning\inhertance\bin\Debug\netcoreapp3.1\inhertance.pdb
+C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.dll
+C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.pdb
+C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.genruntimeconfig.cache
