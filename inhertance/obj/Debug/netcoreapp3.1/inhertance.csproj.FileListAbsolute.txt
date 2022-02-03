@@ -1,5 +1,0 @@
-C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.csproj.AssemblyReference.cache
-C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.AssemblyInfoInputs.cache
-C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.AssemblyInfo.cs
-C:\Users\Akshitha\Desktop\tranning\inhertance\obj\Debug\netcoreapp3.1\inhertance.csproj.CoreCompileInputs.cache
