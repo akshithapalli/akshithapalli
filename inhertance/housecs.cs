@@ -4,9 +4,9 @@ using System.Text;
 
 namespace inhertance
 {
-    class houses
+  static  class houses
     {
-        public static void main(string[] args)
+        static void main(string[] args)
         {
             SmallApartment apartment = new SmallApartment();
             Person person = new Person("Jhon");
@@ -23,7 +23,7 @@ public class House
     public Door door;
 
     public House(int area = 200)
-    {
+    { 
         Area = area;
     }
 
