@@ -1,0 +1,14 @@
+C:\Users\Akshitha\Desktop\tranning\generics\bin\Debug\netcoreapp3.1\generics.exe
+C:\Users\Akshitha\Desktop\tranning\generics\bin\Debug\netcoreapp3.1\generics.deps.json
+C:\Users\Akshitha\Desktop\tranning\generics\bin\Debug\netcoreapp3.1\generics.runtimeconfig.json
+C:\Users\Akshitha\Desktop\tranning\generics\bin\Debug\netcoreapp3.1\generics.runtimeconfig.dev.json
+C:\Users\Akshitha\Desktop\tranning\generics\bin\Debug\netcoreapp3.1\generics.dll
+C:\Users\Akshitha\Desktop\tranning\generics\bin\Debug\netcoreapp3.1\generics.pdb
+C:\Users\Akshitha\Desktop\tranning\generics\obj\Debug\netcoreapp3.1\generics.csproj.AssemblyReference.cache
+C:\Users\Akshitha\Desktop\tranning\generics\obj\Debug\netcoreapp3.1\generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\generics\obj\Debug\netcoreapp3.1\generics.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\generics\obj\Debug\netcoreapp3.1\generics.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\generics\obj\Debug\netcoreapp3.1\generics.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\Desktop\tranning\generics\obj\Debug\netcoreapp3.1\generics.dll
+C:\Users\Akshitha\Desktop\tranning\generics\obj\Debug\netcoreapp3.1\generics.pdb
+C:\Users\Akshitha\Desktop\tranning\generics\obj\Debug\netcoreapp3.1\generics.genruntimeconfig.cache
