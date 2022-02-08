@@ -1,0 +1,14 @@
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\bin\Debug\netcoreapp3.1\garbagecollectors.exe
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\bin\Debug\netcoreapp3.1\garbagecollectors.deps.json
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\bin\Debug\netcoreapp3.1\garbagecollectors.runtimeconfig.json
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\bin\Debug\netcoreapp3.1\garbagecollectors.runtimeconfig.dev.json
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\bin\Debug\netcoreapp3.1\garbagecollectors.dll
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\bin\Debug\netcoreapp3.1\garbagecollectors.pdb
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.dll
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.pdb
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.genruntimeconfig.cache
+C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.csproj.AssemblyReference.cache
