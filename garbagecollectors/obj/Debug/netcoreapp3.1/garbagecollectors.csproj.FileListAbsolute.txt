@@ -11,4 +11,3 @@ C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\gar
 C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.dll
 C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.pdb
 C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.genruntimeconfig.cache
-C:\Users\Akshitha\Desktop\tranning\garbagecollectors\obj\Debug\netcoreapp3.1\garbagecollectors.csproj.AssemblyReference.cache

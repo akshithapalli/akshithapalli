@@ -1,0 +1,5 @@
+C:\Users\Akshitha\Desktop\tranning\arraylist\obj\Debug\netcoreapp3.1\arraylist.csproj.AssemblyReference.cache
+C:\Users\Akshitha\Desktop\tranning\arraylist\obj\Debug\netcoreapp3.1\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\arraylist\obj\Debug\netcoreapp3.1\arraylist.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\arraylist\obj\Debug\netcoreapp3.1\arraylist.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\arraylist\obj\Debug\netcoreapp3.1\arraylist.csproj.CoreCompileInputs.cache
