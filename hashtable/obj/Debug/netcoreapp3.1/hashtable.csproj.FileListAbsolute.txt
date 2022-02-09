@@ -1,0 +1,14 @@
+C:\Users\Akshitha\Desktop\tranning\hashtable\bin\Debug\netcoreapp3.1\hashtable.exe
+C:\Users\Akshitha\Desktop\tranning\hashtable\bin\Debug\netcoreapp3.1\hashtable.deps.json
+C:\Users\Akshitha\Desktop\tranning\hashtable\bin\Debug\netcoreapp3.1\hashtable.runtimeconfig.json
+C:\Users\Akshitha\Desktop\tranning\hashtable\bin\Debug\netcoreapp3.1\hashtable.runtimeconfig.dev.json
+C:\Users\Akshitha\Desktop\tranning\hashtable\bin\Debug\netcoreapp3.1\hashtable.dll
+C:\Users\Akshitha\Desktop\tranning\hashtable\bin\Debug\netcoreapp3.1\hashtable.pdb
+C:\Users\Akshitha\Desktop\tranning\hashtable\obj\Debug\netcoreapp3.1\hashtable.csproj.AssemblyReference.cache
+C:\Users\Akshitha\Desktop\tranning\hashtable\obj\Debug\netcoreapp3.1\hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\hashtable\obj\Debug\netcoreapp3.1\hashtable.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\hashtable\obj\Debug\netcoreapp3.1\hashtable.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\hashtable\obj\Debug\netcoreapp3.1\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\Desktop\tranning\hashtable\obj\Debug\netcoreapp3.1\hashtable.dll
+C:\Users\Akshitha\Desktop\tranning\hashtable\obj\Debug\netcoreapp3.1\hashtable.pdb
+C:\Users\Akshitha\Desktop\tranning\hashtable\obj\Debug\netcoreapp3.1\hashtable.genruntimeconfig.cache
