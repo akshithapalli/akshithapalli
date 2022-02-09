@@ -1,0 +1,14 @@
+C:\Users\Akshitha\Desktop\tranning\queue\bin\Debug\netcoreapp3.1\queue.exe
+C:\Users\Akshitha\Desktop\tranning\queue\bin\Debug\netcoreapp3.1\queue.deps.json
+C:\Users\Akshitha\Desktop\tranning\queue\bin\Debug\netcoreapp3.1\queue.runtimeconfig.json
+C:\Users\Akshitha\Desktop\tranning\queue\bin\Debug\netcoreapp3.1\queue.runtimeconfig.dev.json
+C:\Users\Akshitha\Desktop\tranning\queue\bin\Debug\netcoreapp3.1\queue.dll
+C:\Users\Akshitha\Desktop\tranning\queue\bin\Debug\netcoreapp3.1\queue.pdb
+C:\Users\Akshitha\Desktop\tranning\queue\obj\Debug\netcoreapp3.1\queue.csproj.AssemblyReference.cache
+C:\Users\Akshitha\Desktop\tranning\queue\obj\Debug\netcoreapp3.1\queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\queue\obj\Debug\netcoreapp3.1\queue.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\queue\obj\Debug\netcoreapp3.1\queue.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\queue\obj\Debug\netcoreapp3.1\queue.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\Desktop\tranning\queue\obj\Debug\netcoreapp3.1\queue.dll
+C:\Users\Akshitha\Desktop\tranning\queue\obj\Debug\netcoreapp3.1\queue.pdb
+C:\Users\Akshitha\Desktop\tranning\queue\obj\Debug\netcoreapp3.1\queue.genruntimeconfig.cache
