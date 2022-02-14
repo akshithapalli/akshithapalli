@@ -1,0 +1,14 @@
+C:\Users\Akshitha\Desktop\tranning\exercise\bin\Debug\netcoreapp3.1\exercise.exe
+C:\Users\Akshitha\Desktop\tranning\exercise\bin\Debug\netcoreapp3.1\exercise.deps.json
+C:\Users\Akshitha\Desktop\tranning\exercise\bin\Debug\netcoreapp3.1\exercise.runtimeconfig.json
+C:\Users\Akshitha\Desktop\tranning\exercise\bin\Debug\netcoreapp3.1\exercise.runtimeconfig.dev.json
+C:\Users\Akshitha\Desktop\tranning\exercise\bin\Debug\netcoreapp3.1\exercise.dll
+C:\Users\Akshitha\Desktop\tranning\exercise\bin\Debug\netcoreapp3.1\exercise.pdb
+C:\Users\Akshitha\Desktop\tranning\exercise\obj\Debug\netcoreapp3.1\exercise.csproj.AssemblyReference.cache
+C:\Users\Akshitha\Desktop\tranning\exercise\obj\Debug\netcoreapp3.1\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshitha\Desktop\tranning\exercise\obj\Debug\netcoreapp3.1\exercise.AssemblyInfoInputs.cache
+C:\Users\Akshitha\Desktop\tranning\exercise\obj\Debug\netcoreapp3.1\exercise.AssemblyInfo.cs
+C:\Users\Akshitha\Desktop\tranning\exercise\obj\Debug\netcoreapp3.1\exercise.csproj.CoreCompileInputs.cache
+C:\Users\Akshitha\Desktop\tranning\exercise\obj\Debug\netcoreapp3.1\exercise.dll
+C:\Users\Akshitha\Desktop\tranning\exercise\obj\Debug\netcoreapp3.1\exercise.pdb
+C:\Users\Akshitha\Desktop\tranning\exercise\obj\Debug\netcoreapp3.1\exercise.genruntimeconfig.cache
